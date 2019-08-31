@@ -1,3 +1,4 @@
 # Generated static resources
-/cache/
+cache/
 *.yaml.php
+logs/
