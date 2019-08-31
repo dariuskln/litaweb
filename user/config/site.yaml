@@ -1,0 +1,55 @@
+title: 'Litamua - enhance your natural beauty'
+default_lang: en
+author:
+  name: 'Lita MUA'
+  email: info@litamua.com
+taxonomies:
+  - category
+  - tag
+metadata:
+  description: 'Menerima Makeup Artist, Wedding Makeup, Makeup Party, Makeup Wisuda, Makeup Sweet 17'
+summary:
+  enabled: true
+  format: short
+  size: 300
+  delimiter: '==='
+blog:
+  route: /blog
+email: your-email@domain.com
+description: 'Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.'
+social:
+  -
+    url: '#'
+    icon: facebook.png
+  -
+    url: '#'
+    icon: gplus.png
+  -
+    url: '#'
+    icon: twitter.png
+  -
+    url: '#'
+    icon: rss.png
+copyright:
+  line1: Untitled
+  line2: 'Design:'
+  url: 'http://html5up.net'
+  url_label: 'HTML5 UP'
+logo:
+  text1: Photographer
+  text2: 'by HTML5 UP'
+menu:
+  -
+    text: submenu
+    submenu:
+      -
+        text: info
+        link: '#'
+      -
+        text: profile
+        link: '#'
+      -
+        text: news
+        link: '#'
+        submenu: [{ text: fresh, link: '#' }, { text: archive, link: '#' }]
+    link: '#'
