@@ -34,47 +34,86 @@ filters:
 gallery:
     -
         filter: Wedding
-        image: page3_bigimg1.jpg
-        description: 'quia non numquam'
+        image: wedding_1.jpg
+        description: 'Wedding Makeup'
     -
         filter: Wedding
-        image: page3_bigimg2.jpg
-        description: 'Sed ut perspicia'
+        image: wedding_2.jpg
+        description: 'Wedding Makeup'
     -
-        filter: Hijab-Wedding
-        image: page3_bigimg3.jpg
-        description: 'natus error sit'
+        filter: Wedding
+        image: wedding_3.jpg
+        description: 'Wedding Makeup'
+    -
+        filter: Wedding
+        image: wedding_4.jpg
+        description: 'Wedding Makeup'
+    -
+        filter: Wedding
+        image: wedding_5.jpg
+        description: 'Wedding Makeup'
+    -
+        filter: Wedding
+        image: wedding_6.jpg
+        description: 'Wedding Makeup'
     -
         filter: Engagement
-        image: page3_bigimg4.jpg
-        description: 'voluptatem accusantium'
+        image: Engagement_1.jpg
+        description: 'Engagement Makeup / Makeup Tunangan'
+    -
+        filter: Engagement
+        image: Engagement_2.jpg
+        description: 'Engagement Makeup / Makeup Tunangan'
+    -
+        filter: Engagement
+        image: Engagement_3.jpg
+        description: 'Engagement Makeup / Makeup Tunangan'
+    -
+        filter: Hijab-Wedding
+        image: Hijab_Wedding_1.jpg
+        description: 'Makeup Hijab Wedding Manten Jawa'
+    -
+        filter: Hijab-Wedding
+        image: Hijab_Wedding_2.jpg
+        description: 'Makeup Hijab Wedding Manten Jawa'
+    -
+        filter: Hijab-Wedding
+        image: Hijab_Wedding_3.jpg
+        description: 'Makeup Hijab Wedding Manten Jawa'
     -
         filter: Maternity
-        image: page3_bigimg5.jpg
-        description: 'non numquam eius mo'
+        image: Maternity_1.jpg
+        description: 'Marternity Makeup'
+    -
+        filter: Maternity
+        image: Maternity_2.jpg
+        description: 'Marternity Makeup'
+    -
+        filter: Maternity
+        image: Maternity_3.jpg
+        description: 'Marternity Makeup'
     -
         filter: Sweet-17th
-        image: page3_bigimg6.jpg
-        description: 'rcitationem ullam cor'
+        image: Sweet_1.jpg
+        description: 'Sweet 17th Makeup'
     -
         filter: Sweet-17th
-        image: page3_bigimg7.jpg
-        description: 'poris suscipit labori'
+        image: Sweet_2.jpg
+        description: 'Sweet 17th Makeup'
     -
         filter: Hijab-Party
-        image: page3_bigimg8.jpg
-        description: 'Quis autem vel eum iu'
+        image: Hijab_1.jpg
+        description: 'Hijab Makeup'
     -
         filter: Hijab-Party
-        image: page3_bigimg9.jpg
-        description: 'eprehenderit qui in'
+        image: Hijab_2.jpg
+        description: 'Hijab Makeup'
     -
         filter: Party
-        image: page3_bigimg10.jpg
-        description: 'dolorem eum fugiat'
+        image: Party_1.jpg
+        description: 'Party Makeup'
     -
         filter: Party
-        image: page3_bigimg11.jpg
-        description: 'pariat esent ju'
+        image: Party_1.jpg
+        description: 'Party Makeup' 
 ---
-
