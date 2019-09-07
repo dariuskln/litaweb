@@ -4,7 +4,19 @@ metadata:
     location: malang
     alamat: malang
 menu: location
-title2: Contact
+twittercardoptions: summary
+articleenabled: false
+musiceventenabled: false
+orgaenabled: false
+orga:
+    ratingValue: 2.5
+orgaratingenabled: false
+eventenabled: false
+personenabled: false
+restaurantenabled: false
+restaurant:
+    acceptsReservations: 'yes'
+    priceRange: $
 onpage_menu: true
 map: '<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d2349.6536796786386!2d112.63564788715827!3d-7.9335817525367585!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xeb2d4c453c00a947!2slitamua%20makeup%20artist%20https%3A%2F%2Fwww.instagram.com%2Flitamua!5e0!3m2!1sen!2sid!4v1567072468789!5m2!1sen!2sid" width="600" height="450" frameborder="0" style="border:0;" allowfullscreen=""></iframe>'
 simple_form:
@@ -16,16 +28,8 @@ simple_form:
 ##Postal Address
 
 <address markdown="1">
-**Jalan Ikan Nus 1 no 33**
-
-Telephone: +6281803861565
-
-E-mail: info@litamua.com
-</address>
-
-
-<address markdown="1">
-**Jalan Ikan Nus 1 no 33**
+**Alamat : Jalan Ikan Nus 1 no 33**
+Whatsapp: [Click Here](https://bit.ly/LitaMUA)
 
 Telephone: +6281803861565
 
