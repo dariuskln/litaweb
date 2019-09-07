@@ -2,7 +2,7 @@
 return [
     '@class' => 'Grav\\Common\\File\\CompiledYamlFile',
     'filename' => 'plugins://ganalytics/ganalytics.yaml',
-    'modified' => 1567136767,
+    'modified' => 1567136768,
     'data' => [
         'enabled' => true,
         'trackingId' => '',
