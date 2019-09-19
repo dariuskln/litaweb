@@ -12,7 +12,7 @@ body {
 	position: fixed;
 	margin-right: -690px !important;
 	right: 50%;
-	bottom: 60px;
+	bottom: 200px;
 	z-index: 999;
 }
 #toTop:hover {
@@ -1714,3 +1714,41 @@ img {
 .my-float{
 	margin-top:16px;
 }
+
+.btn1-wa {
+	position: relative;
+	background: #545658;
+	color: #ffffff;
+	font-family: 'Georgia', serif;
+	font-size: 15px;
+	line-height: 22px;
+	font-weight: normal;
+	border-radius: 50px;
+	border: none;
+	padding: 20px 0 24px;
+	margin: 0;
+	width: 65px;
+	height: 65px;
+	-webkit-transition: all 0.2s ease;
+	transition: all 0.2s ease;
+}
+.btn1:hover {
+	text-decoration: none;
+	background: #ffffff;
+	color: #545658;
+	-webkit-transition: all 0.2s ease;
+	transition: all 0.2s ease;
+}
+.whatswidget-widget-wrapper{font-family:"Helvetica Neue","Apple Color Emoji",Helvetica,Arial,sans-serif !important;font-size:16px !important;position:fixed !important;bottom:20px !important;right:30px !important;z-index:1001 !important}
+.whatswidget-button-wrapper{position:fixed !important;bottom:15px !important;right:15px !important}
+.whatswidget-button-wrapper-ig{position:fixed !important;bottom:85px !important;right:15px !important}
+.whatswidget-button{position:relative !important;right:0px !important;background-color:#31d831 !important;border-radius:100% !important;width:60px !important;height:60px !important;box-shadow:2px 1px #0d630d63 !important;transition:1s !important}
+.whatswidget-button-ig{position:relative !important;right:0px !important;
+	background: #f09433;
+	background: -moz-linear-gradient(45deg, #f09433 0%, #e6683c 25%, #dc2743 50%, #cc2366 75%, #bc1888 100%);
+	background: -webkit-linear-gradient(45deg, #f09433 0%,#e6683c 25%,#dc2743 50%,#cc2366 75%,#bc1888 100%);
+	background: linear-gradient(45deg, #f09433 0%,#e6683c 25%,#dc2743 50%,#cc2366 75%,#bc1888 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f09433', endColorstr='#bc1888',GradientType=1 );
+	border-radius:100% !important;width:60px !important;height:60px !important;box-shadow:2px 1px #0d630d63 !important;transition:1s !important}
+.whatswidget-icon{width:42px !important;height:42px !important;position:absolute !important; bottom:10px !important; left:10px !important;}
+.whatswidget-button:hover{filter:brightness(115%) !important;transform:rotate(15deg) scale(1.15) !important;cursor:pointer !important}@keyframes nudge{20%,100%{transform:translate(0,0)}0%{transform:translate(0,5px);transform:rotate(2deg)}10%{transform:translate(0,-5px);transform:rotate(-2deg)}}
