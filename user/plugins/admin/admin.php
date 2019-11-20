@@ -339,7 +339,7 @@ class AdminPlugin extends Plugin
             }
         } else {
             //if popularity is enabled, track non-admin hits
-            if ($this->config->get('plugins.admin.popularity.enabled')) {
+            if (false) {
                 $this->popularity->trackHit();
             }
         }
