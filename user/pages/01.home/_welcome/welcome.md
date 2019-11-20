@@ -4,11 +4,11 @@ description: 'Selain menerima pemesanan makeup, kami juga menerima make up cours
 buttons:
     -
         text: CLICK HERE TO MESSAGE ME
-        url: '#'
+        url: 'https://bit.ly/LitaMUA'
         class: 'btn btn-default btn-lg btn-wa'
     -
-        text: CLICK HERE TO MESSAGE ME
-        url: '#'
+        text: CLICK HERE TO CHECK MY INSTAGRAM
+        url: ''
         class: 'btn btn-default btn-lg btn-ig'
 ---
 

@@ -899,6 +899,7 @@ hr.line2 {
 }
 #filters.pagination li {
 	float: left;
+	padding-bottom: 7px;
 }
 #filters li {
 	display: inline-block;
@@ -961,7 +962,7 @@ hr.line2 {
 	border: none;
 	text-transform: uppercase;
 	font-family: 'Georgia', serif;
-	font-size: 12px;
+	font-size: 15px;
 	line-height: 20px;
 	color: #797979;
 	margin: 0;
